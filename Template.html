@@ -6,13 +6,43 @@
     <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
-    <H1>Less3</H1>
-    <div class="taskIframe">
-        <input type="checkbox" id="hd-1" class="hide"/>
-        <label for="hd-1" >Tasks</label>
-        <div>
-            <iframe src="https://drive.google.com/file/d/175kF8ZFIZ68POahdp4WgUDTDhUnNmYrJ/preview" width="700" height="480"></iframe>
+
+    <div id="HWtastsZone">
+        <h2>HW Taasks</h2>
+        <table>
+            <th>
+                <select id="lesson">
+                    <option value="Less2">Lesson 2</option>
+                    <option value="Less3">Lesson 3</option>
+                </select>
+            </th>
+
+            <th>
+                <input type="button" value="Show HW task" onclick="getUrl()">
+            </th>
+        </table>
+
+        <div id="divIframe" >
+            <iframe id="iFrame" src="" width="600" height="500"></iframe>
         </div>
     </div>
+
+    <div id="HWSolutionsZone">
+        <h2>HW Solutions</h2>
+        <table>
+            <th>
+                <select id="tasks">
+                    <option value="Less2">Lesson 2</option>
+                    <option value="Less3">Lesson 3</option>
+                </select>
+            </th>
+
+            <th>
+                <input type="button" value="Show HW task" onclick="getUrl()">
+            </th>
+        </table>
+    </div>
+
+    <script src="getTaskFileUrl.js"></script>
 </body>
 </html>

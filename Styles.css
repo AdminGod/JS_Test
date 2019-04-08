@@ -1,34 +1,15 @@
-/* скрываем чекбоксы и блоки с содержанием */
-.hide {
-    display: none;
-}
-.hide + label ~ div{
-    display: none;
-}
-/* оформляем текст label */
-.hide + label {
-    border-bottom: 1px dotted green;
-    padding: 0;
-    color: green;
-    cursor: pointer;
-    display: inline-block;
-}
-/* вид текста label при активном переключателе */
-.hide:checked + label {
-    color: red;
-    border-bottom: 0;
-}
-/* когда чекбокс активен показываем блоки с содержанием  */
-.hide:checked + label + div {
+#HWtastsZone{
+    float: left;
     display: block;
-    background: #efefef;
-    -moz-box-shadow: inset 3px 3px 10px #7d8e8f;
-    -webkit-box-shadow: inset 3px 3px 10px #7d8e8f;
-    box-shadow: inset 3px 3px 10px #7d8e8f;
-    padding: 0px;
-    width: 700px;
+    width: 650px;
+    margin: 2px;
 }
-
-.taskIframe{
-    padding: 0px;
+#HWSolutionsZone{
+    float: left;
+    display: block;
+    width: 500px;
+    margin: 2px;
+}
+h2, th{
+    text-align: center;
 }
