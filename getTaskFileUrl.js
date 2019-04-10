@@ -9,6 +9,8 @@ function getUrl() {
             break;
     }
     document.getElementById("iFrame").src = fileUrl;
-    document.getElementById("divIframe").style = {display: 'inline'};
-    setUpOpitionsOfTask();
+}
+
+function removeIframe(){
+    document.getElementById("divIframe").remove()
 }
