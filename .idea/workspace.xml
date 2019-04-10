@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4df394-0adc-4e79-addb-897b24f0bb8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less3/HW/HW-18.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less3/HW/numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less5/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less5/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less3/HW/HW-17.js" beforeDir="false" afterPath="$PROJECT_DIR$/Less3/HW/HW-17.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less3/HW/Template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less3/HW/Template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getTaskFileUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/getTaskFileUrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getTaskFileUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,21 +21,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Template.html">
+        <entry file="file://$PROJECT_DIR$/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="288">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getTaskFileUrl.js">
+        <entry file="file://$PROJECT_DIR$/Template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Styles.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -44,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -56,9 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Less2/HW/HW-13.js" />
-        <option value="$PROJECT_DIR$/Less2/HW/HW-14.js" />
-        <option value="$PROJECT_DIR$/Less2/HW/HW-15.js" />
         <option value="$PROJECT_DIR$/Less2/HW/HW-16.js" />
         <option value="$PROJECT_DIR$/Less2/HW/HW-17.js" />
         <option value="$PROJECT_DIR$/Less2/HW/HW-18.js" />
@@ -100,13 +101,16 @@
         <option value="$PROJECT_DIR$/Less4/test4.js" />
         <option value="$PROJECT_DIR$/Less3/HW/HW-2and3.js" />
         <option value="$PROJECT_DIR$/nanOindex222.html" />
-        <option value="$PROJECT_DIR$/Styles.css" />
         <option value="$PROJECT_DIR$/Less3/HW/HW-18.js" />
         <option value="$PROJECT_DIR$/Less3/HW/HW-17.js" />
         <option value="$PROJECT_DIR$/Less3/HW/Template.html" />
         <option value="$PROJECT_DIR$/Less3/HW/numbers.js" />
-        <option value="$PROJECT_DIR$/Template.html" />
         <option value="$PROJECT_DIR$/getTaskFileUrl.js" />
+        <option value="$PROJECT_DIR$/Less5/test.html" />
+        <option value="$PROJECT_DIR$/Less5/code.js" />
+        <option value="$PROJECT_DIR$/Template.html" />
+        <option value="$PROJECT_DIR$/Styles.css" />
+        <option value="$PROJECT_DIR$/scripts.js" />
       </list>
     </option>
   </component>
@@ -136,11 +140,6 @@
               <item name="JS_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS_Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Less3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,6 +165,7 @@
       <recent name="C:\JS_Test\Less2\HW" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JS_Test" />
       <recent name="C:\JS_Test\Less2\HW" />
       <recent name="C:\JS_Test\Less2" />
     </key>
@@ -192,10 +192,10 @@
     <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_Test/Less4/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_Test/Less3/template.html" useBuiltInWebServerPort="true">
+    <configuration name="testHtmlTemplate.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/JS_Test/Less2/testHtmlTemplate.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="testHtmlTemplate.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/JS_Test/Less2/testHtmlTemplate.html" useBuiltInWebServerPort="true">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_Test/Less5/test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="HW-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HW-1.js" working-dir="$PROJECT_DIR$/Less3/HW">
@@ -207,10 +207,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.Template.html (1)" />
+        <item itemvalue="JavaScript Debug.test.html" />
         <item itemvalue="JavaScript Debug.Template.html" />
         <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="Node.js.HW-1.js" />
-        <item itemvalue="JavaScript Debug.template.html" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,7 @@
       <workItem from="1553871748745" duration="18617000" />
       <workItem from="1553944370290" duration="28495000" />
       <workItem from="1554574037571" duration="1860000" />
-      <workItem from="1554576768465" duration="18450000" />
+      <workItem from="1554576768465" duration="26714000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1554549653059</created>
@@ -261,11 +261,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554766140492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add remove div fromm  html and button for that function">
+      <created>1554916394510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554916394511</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78846000" />
+    <option name="totallyTimeSpent" value="87110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,23 +354,10 @@
     <MESSAGE value="start" />
     <MESSAGE value="embedded iFrame for displaying hw tasks&#10;&#10;create main window where will be moved all tasks" />
     <MESSAGE value="select needed pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="select needed pdf" />
+    <MESSAGE value="add remove div fromm  html and button for that function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add remove div fromm  html and button for that function" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Less2/HW/HW-16.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Less2/HW/HW-15.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Less2/HW/HW-18.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -621,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Less3/HW/HW-18.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -659,17 +646,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getTaskFileUrl.js">
+    <entry file="file://$PROJECT_DIR$/Less5/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less5/code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>

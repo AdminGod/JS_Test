@@ -1,15 +1,3 @@
-#HWtastsZone{
-    float: left;
-    display: block;
-    width: 650px;
-    margin: 2px;
-}
-#HWSolutionsZone{
-    float: left;
-    display: block;
-    width: 500px;
-    margin: 2px;
-}
-h2, th{
+h2{
     text-align: center;
 }

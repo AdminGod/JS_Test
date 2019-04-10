@@ -7,43 +7,20 @@
 </head>
 <body>
 
-    <div id="HWtastsZone">
+    <div id="taskHeader">
         <h2>HW Taasks</h2>
-        <table>
-            <th>
-                <select id="lesson">
-                    <option value="Less2">Lesson 2</option>
-                    <option value="Less3">Lesson 3</option>
-                </select>
-            </th>
+        <select id="lesson">
+            <option value="Less2">Lesson 2</option>
+            <option value="Less3">Lesson 3</option>
+        </select>
 
-            <th>
-                <input type="button" value="Show HW task" onclick="getUrl()">
-            </th>
-        </table>
+        <input type="button" value="Show HW task" onclick="showIframe()">
+        <input type="button" value="Hide HW task" onclick="removeIframe()">
+        <input type="button" value="Get tasks list" onclick="getTaskListForLesson()">
 
-        <div id="divIframe" >
-            <iframe id="iFrame" src="" width="600" height="500"></iframe>
-        </div>
     </div>
 
-    <div id="HWSolutionsZone">
-        <h2>HW Solutions</h2>
-        <table>
-            <th>
-                <select id="tasks">
-                    <option value="Less2">Lesson 2</option>
-                    <option value="Less3">Lesson 3</option>
-                </select>
-            </th>
 
-            <th>
-                <input type="button" value="Show HW task" onclick="getUrl()">
-                <input type="button" value="Hide HW task" onclick="removeIframe()()">
-            </th>
-        </table>
-    </div>
-
-    <script src="getTaskFileUrl.js"></script>
+    <script src="scripts.js"></script>
 </body>
 </html>
