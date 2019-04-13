@@ -4,6 +4,3 @@
 
     alert(arr1.concat(arr2));
 })();
-
-
-let test = "test";
