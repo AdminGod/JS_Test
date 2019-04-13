@@ -1,8 +1,15 @@
 (function () {
-    let arr1 = ['a', 'b', 'c'];
-    arr1.push(1);
-    arr1.push(2);
-    arr1.push(3);
+    let n = parseInt(prompt("input n: "));
 
-    alert(arr1.concat(arr1));
+    let numbers ="";
+
+    decrease(0);
+    alert(numbers);
+
+    function decrease(i){
+        if(i<=n){
+            numbers += " " + i;
+            decrease(++i);
+        }
+    }
 })();

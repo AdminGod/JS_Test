@@ -1,14 +1,14 @@
 (function () {
     let n = parseInt(prompt("input n: "));
 
-    let arr = [];
+    let numbers ="";
 
     decrease(n);
-    alert(arr.join(" "));
+    alert(numbers);
 
     function decrease(n){
         if(n>0){
-            arr.push(n);
+            numbers += " " + n;
             decrease(--n);
         }
     }
