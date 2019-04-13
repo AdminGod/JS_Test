@@ -30,10 +30,6 @@ function getUrl() {
             fileUrl = "https://drive.google.com/file/d/1ajJdLvtKu7CNdsTc4Uag1ZBl7nDd21LP/preview";
             taskAmount = 21;
             break;
-        case "Less4" :
-            fileUrl = "https://drive.google.com/file/d/1rviO9Ta3RFg5qpHwq-zBPzulEA9HXJLD/preview";
-            taskAmount = 14;
-            break;
     }
     return {url: fileUrl, lessons: taskAmount};
 }

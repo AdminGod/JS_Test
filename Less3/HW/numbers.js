@@ -2,6 +2,11 @@ let str = "123456789";
 
 let arrNumb  = str.split("");
 
+/**
+for(let i = 0; i < arrNumb.length; i++){
+
+}
+ */
 (function () {
 for(let i = 0; i <= 100; i++){
 
