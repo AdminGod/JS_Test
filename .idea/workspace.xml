@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4df394-0adc-4e79-addb-897b24f0bb8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less4/HW/HW-14.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less4/HW/HW-13.js" beforeDir="false" afterPath="$PROJECT_DIR$/Less4/HW/HW-13.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash.js" beforeDir="false" afterPath="$PROJECT_DIR$/trash.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -34,25 +33,7 @@
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Less4/HW/HW-14.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Less4/HW/HW-13.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -117,14 +98,14 @@
         <option value="$PROJECT_DIR$/Less4/HW/HW-4.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-6.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-5.js" />
-        <option value="$PROJECT_DIR$/trash.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-9.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-10.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-11.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-12.js" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-13.js" />
         <option value="$PROJECT_DIR$/Less4/HW/HW-14.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/trash.js" />
       </list>
     </option>
   </component>
@@ -263,7 +244,7 @@
       <workItem from="1553944370290" duration="28495000" />
       <workItem from="1554574037571" duration="1860000" />
       <workItem from="1554576768465" duration="36469000" />
-      <workItem from="1555145852097" duration="4131000" />
+      <workItem from="1555145852097" duration="5330000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1554549653059</created>
@@ -356,11 +337,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555150509351</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="less4(hw) - done">
+      <created>1555153648873</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555153648873</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100996000" />
+    <option name="totallyTimeSpent" value="102195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,7 +361,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974093" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50259066" side_tool="true" weight="0.25" />
@@ -470,7 +457,8 @@
     <MESSAGE value="less4(hw) - hw4 - done" />
     <MESSAGE value="less4(hw) - hw5 - done" />
     <MESSAGE value="less4(hw) - hw12 - done" />
-    <option name="LAST_COMMIT_MESSAGE" value="less4(hw) - hw12 - done" />
+    <MESSAGE value="less4(hw) - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="less4(hw) - done" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Less3/HW/HW-1.js">
@@ -768,20 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trash.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Less4/HW/HW-13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -792,7 +766,21 @@
     <entry file="file://$PROJECT_DIR$/Less4/HW/HW-14.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
